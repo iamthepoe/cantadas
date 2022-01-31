@@ -11,6 +11,7 @@ Este é um repositório focado em refazer um site criado pelo nosso professor de
 
 <h2>Projeto.</h2>
 Utilizamos o Node com Express para a criação das rotas e também para o mecanismo de sortear qual cantada será enviada. O EJS foi utilizado como View-Engine. Com ele, conseguimos exibir os dados do back-end no front-end com uma certa facilidade. 
+	
 <img src="https://raw.githubusercontent.com/iamthepoe/cantadas/main/cantadas/public/images/Screenshot.png">
 <h2>Quer contribuir?</h2>
 Sinta-se a vontade para baixar e alterar o projeto como bem entender. Caso identifique algum problema ou desenvolva alguma melhora, <b>forks</b> e <b>pull requests</b> serão bem-vindos!
