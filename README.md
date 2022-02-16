@@ -2,13 +2,14 @@
 Este é um repositório focado em refazer um site criado pelo nosso professor de <b>Programação Web I</b> (Rodolfo Primocena). Trata-se de um site divertido que envia uma cantada aleatória de programação para o usuário que entrar. Toda vez que o site é recarregado, outra cantada é enviada.
 
 <p><b>Tecnologias utilizadas:<b> </p>
+<div align=center>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/EJS-990033?style=for-the-badge&logo=javascript&logoColor=669900">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-
+</div>
 <h2>Projeto.</h2>
 Utilizamos o Node com Express para a criação das rotas e também para o mecanismo de sortear qual cantada será enviada. O EJS foi utilizado como View-Engine. Com ele, conseguimos exibir os dados do back-end no front-end com uma certa facilidade. 
 	
