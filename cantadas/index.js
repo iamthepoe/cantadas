@@ -33,4 +33,8 @@ app.get("/", function(req,res){
 	});
 });
 
+app.get('/404', function(req,res){
+	res.render("404.ejs");
+});
+
 app.listen(8181,()=>{console.log("App rodando!");});
