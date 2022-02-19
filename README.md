@@ -1,8 +1,8 @@
 # Olá, dev! Este é o site "cantadas".
 Este é um repositório focado em refazer um site criado pelo nosso professor de <b>Programação Web I</b> (Rodolfo Primocena). Trata-se de um site divertido que envia uma cantada aleatória de programação para o usuário que entrar. Toda vez que o site é recarregado, outra cantada é enviada.
 
-<p><b>Tecnologias utilizadas:<b> </p>
 <div align=center>
+<p><b>Tecnologias utilizadas:<b> </p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
